@@ -1,0 +1,10 @@
+# specific files
+my_notes.txt
+PASSWORD_MANAGER_DETAILED.md
+passwords.json
+.idea
+
+# directories
+/my-env
+/junk-old
+/.venv
