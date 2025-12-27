@@ -1,0 +1,5 @@
+# Password Manager Dependencies
+# Install with: pip install -r requirements.txt
+
+# Encryption library (for future password encryption feature)
+cryptography>=46.0.0
